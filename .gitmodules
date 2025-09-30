@@ -1,0 +1,3 @@
+[submodule "cs-classic-papers"]
+	path = cs-classic-papers
+	url = https://github.com/AnHaechan/cs-classic-papers
