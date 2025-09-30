@@ -1,3 +1,6 @@
 [submodule "cs-classic-papers"]
 	path = cs-classic-papers
 	url = https://github.com/AnHaechan/cs-classic-papers
+[submodule "ai-compilers-study-material"]
+	path = ai-compilers-study-material
+	url = https://github.com/AnHaechan/ai-compilers-study-material
